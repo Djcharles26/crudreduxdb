@@ -1,0 +1,14 @@
+{
+  "libros": [
+    {
+      "id": "e960fa86-df59-4f0b-9ff1-4f22c2675f25",
+      "nombre": "Aprendiendo React v3",
+      "precio": "125"
+    },
+    {
+      "id": "7d0d85dc-ae3a-4f2a-9b38-0748d14ded89",
+      "nombre": "Aprendiendo Redux",
+      "precio": "120"
+    }
+  ]
+}
